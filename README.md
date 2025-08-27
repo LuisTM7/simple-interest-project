@@ -14,9 +14,12 @@ Este repositorio contiene la solución para el proyecto de cálculo de interés 
 
 El script `simple-interest.sh` permite calcular el interés simple usando la fórmula:
 
-Interés = (Capital * Tasa * Tiempo) / 100
+Interés = (Capital _ Tasa _ Tiempo) / 100
 
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/tu-usuario/simple-interest-project.git
    cd simple-interest-project
+   ```
+
+MODIFICANDO PARA `bug-fix-typo`
